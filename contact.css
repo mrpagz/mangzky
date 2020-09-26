@@ -1,0 +1,14 @@
+.container {
+    background-color: whitesmoke;
+    float:left;
+    margin-left: 30px;
+    width: 600px;
+    height: 500px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+  }
+
+  .float-left {
+    padding-inline-start: 15px;
+    padding-bottom: 40px;;
+}
