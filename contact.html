@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ABOUT ME</title>
+  <title>CONTACT</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link rel="stylesheet" href="style.css">
@@ -39,27 +39,29 @@
     <div class="row mt-3">
       <div class="col-12 col-sm-12">
         <div class="Header">
-          <h1>About Me</h1>
+          <h1>Contact</h1>
         </div>
         <hr>
-        <div class="clearfix">
-          <div class="float-left">
-            <img src="amef.jpg" alt="" class="mr-3">
-          </div>
-          <p class="para">
-            I am a Web Developer and a full-time Dad from New Jersey, USA. I love converting intricate Web code problems
-            to a smooth and glassy code interface. I am always the Code Responder if your HTML CSS and JAVASCRIPT is in
-            "Code Blue".
+        <form>
+            <div class="form-group">
+              <label for="exampleInputEmail1">Name</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Name">
+              
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
+                
+            </div>
 
-          </p>
-          <p class="para">Why full-time dad? I am always on my daughter's side not only to her remote learning but to
-            all her activities in this unpresedented time. If I am not coding, i am definitely with my wife and daughter
-            creating awesome moments that I am the only one who is capable of. Let me be that person to your HTML CSS
-            and JAVASCRIPT problems.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+              <div class="form-group">
+                <label for="exampleFormControlTextarea1">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Email">Message</textarea>
+                
+              </div>
+            
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
 </body>
 
 </html>
