@@ -3,9 +3,11 @@ body {
   }
 
   .float-left {
-      padding-bottom: 30px;
+      padding-bottom: 40px;
       padding-left: 10px;
-      margin-left:10px;
-      
+     
+  }
 
+  .container {
+    margin-left:40px;
   }
