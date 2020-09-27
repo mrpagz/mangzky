@@ -1,10 +1,4 @@
-.container {
-    background-color: whitesmoke;
-    float:left;
-    margin-left: 30px;
-    width: 600px;
-    height: 500px;
-    margin-bottom: 100px;
-    margin-top: 50px;
-  }
+body {
+  background-color: lightblue;
+}
 

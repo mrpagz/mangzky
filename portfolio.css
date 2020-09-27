@@ -1,13 +1,5 @@
-.container {
-    background-color: whitesmoke;
-    float:left;
-    margin-left: 30px;
-    margin-right: 15px;
-    width: 800px;
-    height: 1250px;
-    margin-bottom: 100px;
-    margin-top: 50px;
-   
+body {
+    background-color: lightblue;
   }
 
   .float-left {
