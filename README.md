@@ -1,1 +1,1 @@
-# mangzky
+This homework let me create 3 responsive links in one webpage representing AboutMe, My contact and My portfolio with a link to my LinkedIn account. Everything that we cover on week 2 all about bootstrap (containers, rows and columns) has been applied and used to do this homework. This is very challenging for me as I am new with coding. A lot of research and work has been exerted using different useful sites like W3 school, getbootstrap, and a lot more sites.		
